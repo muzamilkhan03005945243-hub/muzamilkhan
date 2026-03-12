@@ -1,3 +1,1 @@
-# muzamilkhan
-from codde
-learn react properly 
+this is the first work in github from apna college 
